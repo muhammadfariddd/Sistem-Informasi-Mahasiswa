@@ -63,10 +63,6 @@ Atau menggunakan MongoDB Compass:
 2. Buat database 'phpdasar'
 3. Import file JSON dari folder 'db' ke masing-masing collection
 
-## 📝 Lisensi
-
-[MIT License](LICENSE)
-
 ## 👨‍💻 Author
 
 **Muhammad Farid**

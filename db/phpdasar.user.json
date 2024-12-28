@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6707edb38f93d903a8042374"
+  },
+  "type": "header",
+  "version": "5.2.0",
+  "comment": "Export to JSON plugin for PHPMyAdmin"
+},
+{
+  "_id": {
+    "$oid": "6707edb38f93d903a8042375"
+  },
+  "type": "database",
+  "name": "phpdasar"
+},
+{
+  "_id": {
+    "$oid": "6707edb38f93d903a8042376"
+  },
+  "type": "table",
+  "name": "users",
+  "database": "phpdasar",
+  "data": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "$2y$10$cHEye5pA9JNf6JI05g1ZxOP53f0Zk/pXNLFBPpeyNXUb6uD7AcoNa"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67097570fa70f3f8e8084b53"
+  },
+  "username": "farid",
+  "password": "$2y$10$eoX2ssMiyK5snXFgmQ8mxO2bXq6kfy0APOuP1YE5iZlhPaEjDk0Zy"
+},
+{
+  "_id": {
+    "$oid": "67701112df53fbae1504a195"
+  },
+  "username": "admin",
+  "password": "$2y$10$N9C6c81tzkKbcy6p0XLcweMKEoxX7dKZNSSTJ2aJPivxHD53O0jQ2"
+}]

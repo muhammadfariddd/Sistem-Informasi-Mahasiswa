@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "67449e3e45ca53d30e054146"
+  },
+  "kode": "55201",
+  "nama": "Teknik Informatika",
+  "fakultas": "Sains dan Teknologi",
+  "created_at": {
+    "$date": "2024-11-25T15:56:46.313Z"
+  },
+  "updated_at": {
+    "$date": "2024-11-25T15:56:46.313Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6744a13845ca53d30e05414a"
+  },
+  "kode": "57201",
+  "nama": "Sistem Informasi",
+  "fakultas": "Sains dan Teknologi",
+  "created_at": {
+    "$date": "2024-11-25T16:09:28.706Z"
+  },
+  "updated_at": {
+    "$date": "2024-11-25T16:09:28.706Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6744a1e145ca53d30e05414b"
+  },
+  "kode": "20201",
+  "nama": "Teknik Elektro",
+  "fakultas": "Sains dan Teknologi",
+  "created_at": {
+    "$date": "2024-11-25T16:12:17.913Z"
+  },
+  "updated_at": {
+    "$date": "2024-11-25T16:12:17.913Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6744a23445ca53d30e05414c"
+  },
+  "kode": "26201",
+  "nama": "Teknik Industri",
+  "fakultas": "Sains dan Teknologi",
+  "created_at": {
+    "$date": "2024-11-25T16:13:40.179Z"
+  },
+  "updated_at": {
+    "$date": "2024-11-25T16:13:40.179Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6744a26045ca53d30e05414f"
+  },
+  "kode": "54243",
+  "nama": "Budidaya Perairan",
+  "fakultas": "Sains dan Teknologi",
+  "created_at": {
+    "$date": "2024-11-25T16:14:24.048Z"
+  },
+  "updated_at": {
+    "$date": "2024-11-25T16:14:24.048Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6744a29245ca53d30e054150"
+  },
+  "kode": "22201",
+  "nama": "Teknik Sipil",
+  "fakultas": "Sains dan Teknologi",
+  "created_at": {
+    "$date": "2024-11-25T16:15:14.901Z"
+  },
+  "updated_at": {
+    "$date": "2024-11-25T16:15:14.901Z"
+  }
+}]

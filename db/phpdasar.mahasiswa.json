@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "67486f0c86da6dba2f0dc124"
+  },
+  "nim": "231240001383",
+  "nama": "Muhammad Farid",
+  "email": "ilhamfaridjepara@gmail.com",
+  "jurusan_id": {
+    "$oid": "67449e3e45ca53d30e054146"
+  },
+  "foto": "67701dfb4a9fd.jpg"
+},
+{
+  "_id": {
+    "$oid": "677020f7df53fbae1504a19a"
+  },
+  "nim": "231240001385",
+  "nama": "Ahmad Akbar Maulana Firdaus",
+  "email": "akbar@gmail.com",
+  "jurusan_id": {
+    "$oid": "6744a13845ca53d30e05414a"
+  },
+  "foto": "677020f78508a.jpg"
+}]
